@@ -21,7 +21,7 @@ const tx= jateDb.transaction('jate','readwrite');
 
 const store= tx.objectStore('jate');
 
-const request= store.add({jate:content});
+const request= store.put({id:id, value: value});
 
 const result= await request;
 
