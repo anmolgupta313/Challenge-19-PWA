@@ -44,6 +44,14 @@ devDependencies":
 
 # Result
 
+![Screenshot 2023-01-26 at 12 19 33 AM](https://user-images.githubusercontent.com/111723339/214764016-caee21e3-302a-48db-945b-65a5eb7d265e.png)
+
+![Screenshot 2023-01-26 at 12 19 46 AM](https://user-images.githubusercontent.com/111723339/214764024-d1ec8683-d57d-4e3a-a3eb-ae138ba91110.png)
+
+![Screenshot 2023-01-26 at 12 19 56 AM](https://user-images.githubusercontent.com/111723339/214764033-8540d17c-7043-4b10-a7cb-f8014acafe0f.png)
+
+![Screenshot 2023-01-26 at 12 20 09 AM](https://user-images.githubusercontent.com/111723339/214764056-29a2cc7e-ae1e-42c4-bf93-b5d67e449811.png)
+
 
 # Deployed Link:
 https://textt.herokuapp.com/
