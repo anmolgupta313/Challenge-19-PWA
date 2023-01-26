@@ -23,13 +23,14 @@ module.exports = () => {
         title:'JATE'
       }),
       new InjectManifest({
-        swSrc:'./src-sw.js',
-        swDest:'./src-sw.js'
+        swSrc: "./src-sw.js",
+        swDest: "src-sw.js",
       }),
+
       new WebpackPwaManifest({
-        fingerprints:false,
+        fingerprints: false,
         inject: true,
-        name:'Challenge-19-PWA',
+        name:'JATE',
         short_name:'JATE',
         description:'Use Text Editor',
         background_color: '#225ca3',
